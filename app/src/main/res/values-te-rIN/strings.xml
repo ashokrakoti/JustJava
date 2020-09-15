@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="toppings_heading">టాపింగ్స్</string>
+    <string name="whipped_cream_topping">మీగడ</string>
+    <string name="chocolate_topping">చాక్లెట్</string>
+    <string name="name_hint">పేరు</string>
+</resources>
